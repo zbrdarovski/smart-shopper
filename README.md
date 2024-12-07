@@ -15,9 +15,14 @@ The Smart Shopper is a Kotlin-based mobile application designed to revolutionize
 - User-Friendly Design: Easy-to-navigate interface for all age groups
 
 ## Technologies Used
-Programming Language: Kotlin
 
-Core Functionality: Android geolocation services
+<p>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt='Location' width='100px' />        
+  <img src='https://cdn-icons-png.freepik.com/512/9678/9678887.png?ga=GA1.1.1704439419.1733507761' alt='Location' width='100px' />
+</p>
+
+Geolocation icon by <a href=https://www.freepik.com>Freepik</a>
 
 ## Testing Environment
 - Physical Device: Samsung Galaxy A40

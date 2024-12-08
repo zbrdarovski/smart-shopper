@@ -50,3 +50,7 @@ Run the app:
 - Discover Shops: View the closest shops and filter by price or product quality
 - Browse Articles: Tap a shop to explore its articles and prices
 - Navigate Easily: Get directions to any selected shop directly from the app
+
+## License
+This project is not licensed for public use. The code is protected by copyright law.  
+Viewing is permitted for evaluation purposes only. Copying, modifying, or distributing the code is strictly prohibited.
